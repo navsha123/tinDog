@@ -1,0 +1,129 @@
+#title{
+    background-color: #ff4c68;
+   
+   
+    
+}
+#features{
+    padding: 7% 15%;
+    font-family: "Montserrat-Bold";
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.navbar{
+    padding: 5%;
+    font-size: 1.4rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+.description{
+    color: #8f8f8f;
+
+}
+.fa-circle-check:hover{
+    color: #ff4c68  !important;
+}
+.fa-bullseye:hover{
+    color: #ff4c68  !important;   
+}
+.fa-heart:hover{
+    color: #ff4c68  !important;
+}
+
+#icon{
+    color: #ef8172;
+    font-size: 50px;
+   
+}
+#icon-1{
+    color: #ef8172;
+    font-size: 50px;
+}
+#icon-2{
+    color: #ef8172;
+    font-size: 50px;
+}
+.container-fluid{
+    padding: 3% 15% 10%;
+}
+h1 {  
+    font-family: 'Montserrat, sans-serif'; 
+     font-size: 3rem;  
+     line-height: 1.5; 
+      font-weight: 900;
+    }
+.rotate{
+    transform: rotate(25deg);
+    width: 60%;
+    position: absolute;
+    right: 30%;
+}
+#testimonials{
+    padding: 7% 10%;
+    text-align: center;
+    background-color: #ef8172 ;
+    color: #fff;
+}
+.testimonial-image{
+    width:10% ;
+    height:10% ;
+    border-radius: 100%;
+    margin: 20px;
+}
+h2{
+    font-family: "montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "montserrat-Bold";
+    font-size: 3rem;
+    padding-bottom: 2%;
+}
+.dog{
+    width: 10%;
+    height: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    padding:0% 2% 3%;
+    text-align: center;
+    background-color: #ef8172 ;
+    color: #fff;
+}
+.press-images{
+    width: 15%;
+    height: 20%;
+    margin: 20px 20px 50px 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    padding:100px ;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+#cta{
+    padding: 5% ;
+    background-color: #ef8165;
+    text-align: center;
+    color: #fff;
+    
+}
+#footer{
+    padding: 3%;
+    text-align: center;
+    background-color: #fff;
+    font-size: 2rem;
+}
+.footer-images{
+   padding-bottom: 3%;
+}
